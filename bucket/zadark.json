@@ -1,12 +1,12 @@
 {
-  "version": "26.1",
+  "version": "26.2",
   "description": "ZaDark is an extension that helps you enable Dark Mode for Zalo PC.",
   "homepage": "https://github.com/quaric/zadark",
   "license": "MPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://storage.zadark.com/zadark26.1-windows.zip",
-      "hash": "0e50f972d8c1104def20cf705e5e0a9a5eef4054355abac419ccef29aa95bc2c"
+      "url": "https://storage.zadark.com/zadark26.2-windows.zip",
+      "hash": "26256ed4da1936a81bfaedb8fb61be5112ee4d8d638add80d6bb2ee29752066b"
     }
   },
   "pre_install": "Rename-Item \"$dir\\zadark$version-windows.exe\" \"zadark.exe\"",
